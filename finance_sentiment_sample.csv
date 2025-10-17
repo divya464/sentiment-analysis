@@ -1,0 +1,52 @@
+id,date,headline,sentiment
+1,2025-09-01,Stocks surge as inflation slows down in September report,Positive
+2,2025-09-02,Tech giants see decline amid global chip shortage,Negative
+3,2025-09-03,Federal Reserve hints at possible rate cuts next quarter,Neutral
+4,2025-09-04,Oil prices drop due to weak demand in Asia,Positive
+5,2025-09-05,Gold remains stable as investors await Fed decision,Negative
+6,2025-09-06,Market volatility rises after unexpected job data,Neutral
+7,2025-09-07,Investors optimistic as corporate earnings exceed expectations,Positive
+8,2025-09-08,Dollar strengthens against Euro amid trade optimism,Negative
+9,2025-09-09,Economic slowdown fears weigh on stock markets,Neutral
+10,2025-09-10,Crypto markets recover slightly after last week’s crash,Positive
+11,2025-09-11,Bond yields fall as demand for safe assets increases,Negative
+12,2025-09-12,Tesla shares rally on strong quarterly results,Neutral
+13,2025-09-13,"Bitcoin drops below $60,000 as regulation concerns grow",Positive
+14,2025-09-14,U.S. housing market cools after months of rapid growth,Negative
+15,2025-09-15,Consumer confidence rises for the third straight month,Neutral
+16,2025-09-16,Oil prices rebound after OPEC+ production cuts,Positive
+17,2025-09-17,Amazon to invest billions in AI cloud infrastructure,Negative
+18,2025-09-18,European markets close lower amid political uncertainty,Neutral
+19,2025-09-19,Federal Reserve officials signal slower rate hikes,Positive
+20,2025-09-20,Gold prices surge amid geopolitical tensions,Negative
+21,2025-09-21,Apple faces supply chain disruptions in China,Neutral
+22,2025-09-22,Inflation expectations ease as energy prices fall,Positive
+23,2025-09-23,Crypto investors remain cautious amid market volatility,Negative
+24,2025-09-24,U.S. GDP growth revised upward in latest report,Neutral
+25,2025-09-25,Tech IPO market shows signs of recovery,Positive
+26,2025-09-26,Banks report higher profits driven by rising interest rates,Negative
+27,2025-09-27,Retail sales disappoint despite holiday discounts,Neutral
+28,2025-09-28,Stock futures rise ahead of key inflation data,Positive
+29,2025-09-29,Global markets rally as trade talks progress,Negative
+30,2025-09-30,Energy sector under pressure as demand forecasts cut,Neutral
+31,2025-10-01,Tesla stock dips despite record vehicle deliveries,Positive
+32,2025-10-02,Oil prices stabilize after weeks of fluctuation,Negative
+33,2025-10-03,U.S. dollar weakens amid speculation of policy change,Neutral
+34,2025-10-04,European Central Bank hints at possible stimulus extension,Positive
+35,2025-10-05,Dow Jones posts best week since June,Negative
+36,2025-10-06,Unemployment claims fall more than expected,Neutral
+37,2025-10-07,Cryptocurrency market sees renewed investor interest,Positive
+38,2025-10-08,China’s economic data points to slower growth,Negative
+39,2025-10-09,Goldman Sachs upgrades tech sector outlook,Neutral
+40,2025-10-10,Oil prices hit 3-month high on strong U.S. demand,Positive
+41,2025-10-11,Market reacts positively to new fiscal policy announcements,Negative
+42,2025-10-12,Interest rates expected to remain steady this year,Neutral
+43,2025-10-13,Earnings season kicks off with mixed results,Positive
+44,2025-10-14,Housing market faces affordability challenges,Negative
+45,2025-10-15,Global supply chain recovery boosts manufacturing stocks,Neutral
+46,2025-10-16,Investors eye opportunities in emerging markets,Positive
+47,2025-10-17,S&P 500 hits record high amid optimism over growth,Negative
+48,2025-10-18,Energy transition accelerates investment in renewables,Neutral
+49,2025-10-19,Fed chair signals commitment to economic stability,Positive
+50,2025-10-20,Corporate bond market shows strong investor demand,Negative
+51,2025-10-21,Job market remains resilient despite headwinds,Neutral
