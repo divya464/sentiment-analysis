@@ -1,4 +1,4 @@
-git clone https://github.com/codingacharya/sentiment-analysis.git
+git clone https://github.com/divya464/sentiment-analysis.git
 
 cd sentiment-analysis
 
